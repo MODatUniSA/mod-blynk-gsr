@@ -18,11 +18,11 @@ Using the [Blynk](http://www.blynk.cc) data visualisation app.
 ```
 3. Connect the GSR sensor to your ESP32:
 
-**Arduino** | **GSR**
+**ESP32** | **GSR**
 --- | ---
 GND | GND
 3.3v | VCC
-A2 | SIG
+32 (analog) | SIG
 
 4. Upload the code to an Arduino.
 5. Watch the serial output to check it’s connected to the internet.

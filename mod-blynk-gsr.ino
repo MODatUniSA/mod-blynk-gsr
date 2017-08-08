@@ -33,11 +33,11 @@
 
 GSR connection pins to Arduino microcontroller
 
-Arduino           GSR
+ESP32             GSR
 -------           ---
 GND               GND
 5V                VCC
-A2                SIG
+32                SIG
 D13             RED LED
 
 */
