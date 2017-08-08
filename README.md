@@ -17,6 +17,7 @@ Using the [Blynk](http://www.blynk.cc) data visualisation app.
 #define your_password "password"
 ```
 3. Connect the GSR sensor to your ESP32:
+
 **Arduino** | **GSR**
 --- | ---
 GND | GND
